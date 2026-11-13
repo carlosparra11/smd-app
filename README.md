@@ -1,5 +1,4 @@
 # smd-app
-
 Personal finance ledger: balances and spending from a CSV file.
 
 ## Run it
